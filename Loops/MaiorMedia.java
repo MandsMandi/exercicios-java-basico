@@ -2,7 +2,7 @@ package Loops;
 
 import java.util.Scanner;
 
-//Programa recebe 5 valores do usurário e entrega os valores de soma e média.
+//Programa recebe 5 valores inteiros do usurário e entrega os valores de soma e média.
 
 public class MaiorMedia {
     public static void main(String[] args) {
